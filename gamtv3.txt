@@ -1,6 +1,7 @@
 小猪佩奇,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380221622
 Cbeebies卡通,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11018&key=84797b799ae18d1b
 Baby TV,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11014&key=84797b799ae18d1b
+東森幼幼,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14007&key=268458248092
 Life Time,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11017&key=84797b799ae18d1b
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
