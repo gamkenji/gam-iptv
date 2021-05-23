@@ -1,26 +1,20 @@
-小猪佩奇,http://221.178.100.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c16_lb_xiaozhupeiqi_720p_t5/c16_lb_xiaozhupeiqi_720p_t5.m3u8
-MOMO亲子台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12021&key=84797b799ae18d1b
-東森幼幼,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14007&key=268458248092
-東森幼幼2,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14007&key=84797b799ae18d1b
-Cbeebies卡通,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11018&key=84797b799ae18d1b
-Baby First,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8803&key=84797b799ae18d1b
-迪士尼卡通,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13019&key=433654563351
-CN卡通频道,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13015&key=84797b799ae18d1b
-Disney卡通,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13019&key=84797b799ae18d1b
-靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
-靖天卡通,http://61.58.60.230:9319/live/207.m3u8
-
 MOMO親子1,tvbus://5X5Hd9WdA5SySjWsbASTc8rbcxfcYewnPnvy59KegMAhWFrA16sHebm9L8Xqn
 MOMO親子2,tvbus://8LYzzxsK9M826tCuaepTTrHW5xAvwogA53NcLdYWGno72Xx5nF
+MOMO親子3,tvbus://5ZmNFNkNNWLmV5r4xXWWQe7VWgsTVcX7Rn2jYap433Kjmh46SHNGxiAdKMn7h
 東森幼幼1,tvbus://6QCZY2EVkFP5ebQcSLx9Bn1GJ95zvxkQDW1ia3fy6gQZETKgvBh1yXLtYaZnd
 東森幼幼2,tvbus://7mTCKDyRQkAMpAsx4eMdtWdUjzrk85yb3mbfmN8qeLUi1qpWxg
-迪士尼,tvbus://5kZ8i4ftZm6b3DroFWmRPREjDQiyuxkwSCc69bE4xafAyWXXUpLncR3sCjCJX
-卡通频道,tvbus://6cCTwbYLkkx5vSHmZ1fTVb7rrbo5XRcaWbtNuUTTpSHFxsqPD6KyZuEHESnZz
-龙华动画,tvbus://61YbuC57vn89TinNh2chcuyhwV1QVQCiNwKLMsrzLiJTKNCry5iJRZGS7yQWb
-迪士尼,tvbus://5kZ8i4ftZm6b3DroFWmRPREjDQiyuxkwSCc69bE4xafAyWXXUpLncR3sCjCJX
-BOOMERANG,tvbus://8YuJE9sdG8s4GS6QobPiDT6Y62DUJnEagvdHL5MJdig5KMmuGF
-卡通频道,tvbus://6cCTwbYLkkx5vSHmZ1fTVb7rrbo5XRcaWbtNuUTTpSHFxsqPD6KyZuEHESnZz
-nick jr(English),tvbus://5zHPzU324J3guXpHAuUB3YnfR7KTBQxj5bcp4Da8iyYJDHJDhnrGAeCCeX9Tx
+東森幼幼3,tvbus://62FLkYBGPwzHY5r9ZBacYVyPgckqiggdj76u4jLsqU9FdQJEevHVW1VE2dzX9
+Baby-TV,tvbus://5THtjvRyywNSCsuB4bZiejQuz4qSEsTJrgMowBAnFZqgQMXiVLUQehm2JS4Sy
+迪士尼卡通1,tvbus://5kZ8i4ftZm6b3DroFWmRPREjDQiyuxkwSCc69bE4xafAyWXXUpLncR3sCjCJX
+迪士尼卡通2,tvbus://5WZAW4e6iyxWUMRoeMtVnzgXYSPtgQyJrYR93PK2BYU5UMU7s9r3cgQZLtUvb
+卡通頻道,tvbus://6cCTwbYLkkx5vSHmZ1fTVb7rrbo5XRcaWbtNuUTTpSHFxsqPD6KyZuEHESnZz
+龍華動畫,tvbus://61YbuC57vn89TinNh2chcuyhwV1QVQCiNwKLMsrzLiJTKNCry5iJRZGS7yQWb
+靖天卡通,tvbus://5XaaoHBnDRrFmBQhrUp9XsT2MtTF7gYzhPLGP4DGjEiJLZ2WhgPo2e3gmQtpx
+尼克兒童頻道,tvbus://6NuvcMoX9Wixht5EJjTr67ja8bf5FbqBdtqGhmLxUnYtW97h8ehBP6QdN
+CN卡通國際HD EN,tvbus://5t6f4fQ6V9rFFVZvAcwQ2uiFKPFbtMXySX1qLsLgA37fGrAtaktZzmRaUPyfA
+BOOMERANG1,tvbus://8YuJE9sdG8s4GS6QobPiDT6Y62DUJnEagvdHL5MJdig5KMmuGF
+BOOMERANG2,tvbus://6Cz3jcy1gsTwCxNYBiHYHSQY4znY7AubsFYnJzQKaY2FNmeGqp4is8eSmLmJi
+Animax HD,tvbus://64e38SnAoCiJg5r3viGX4F1b5bMYrwcrsthuJHizPCUinbBJ7XgRYbe9C4mjb
 DISNEY-CHANNEL,tvbus://6CHkCNLd6UXCWGDpmAgTWbfz5CCir4b985gBFCiv92WfiQZS56GZ7CfGMStoJ
 DISNEY-JR,tvbus://6RAfsiZWHxuf4JaGZjCwGPABh21wi2JNfCrg1DTQq8ZRvSwXpunspprobXedM
 DISNEY-XD,tvbus://6MLyERpCximr7CUWGbujcxu8edSVk4tPeCA2nYmqECi5kfTfcHWjE9Qrhkz5u
